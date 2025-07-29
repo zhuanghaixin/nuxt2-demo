@@ -1,6 +1,8 @@
 # Nuxt2 Demo 项目
 
 基于 Nuxt2 + Composition API + Ant Design Vue 构建的演示项目。
+## 访问
+http://localhost:3000/highlight-demo
 
 ## 📋 技术栈
 
